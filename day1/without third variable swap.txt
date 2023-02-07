@@ -1,0 +1,9 @@
+swap numbers without third variable
+Step 1: START
+Step 2: ENTER x, y
+Step 3: PRINT x, y
+Step 4: x = x + y
+Step 5: y= x - y
+Step 6: x =x - y
+Step 7: PRINT x, y
+Step 8: END

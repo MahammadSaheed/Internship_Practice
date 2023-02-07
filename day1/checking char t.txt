@@ -1,0 +1,9 @@
+checking character 't'
+step1:start
+step2: declare char
+step3: read char
+step4: check if char=='t'
+       display char is 't'
+        else
+      display char is not 't'
+step5: stop

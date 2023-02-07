@@ -1,0 +1,16 @@
+Step1:Start
+Step2:input sub1,sub2,sub3,sub4,sub5,avg,per,grade,marks;
+Step3:read sub1,sub2,sub3,sub4,sub5, marks;
+Step4:avg=sub1+sub2+sub3+sub4+sub5/5;
+      per=(sub1+sub2+sub3+sub4+sub5/max  marks)*100;
+      if(per>=90 and per<=100)
+              display Grade A;
+      else if(per>=80  and per<=90)
+              display Grade B;
+      else if(per>=70  and per<=80)
+             display Grade C;
+      else if(per>=60  and per<=70)
+             display Grade D;
+      else 
+             display fail;
+Step5: Stop

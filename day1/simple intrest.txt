@@ -1,0 +1,5 @@
+Find simple interest
+1:StartStep 
+2:Read Principal Amount, Rate and TimeStep 
+3:Calculate Interest using formula SI= ((amount*rate*time)/100)Step
+4:Print Simple InterestStep 5:Stop

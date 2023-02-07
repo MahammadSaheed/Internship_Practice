@@ -1,0 +1,15 @@
+step1: start
+step2: input  basic salary,hra,da
+step3: find gross salary
+step4: if(basic<=10000)
+        hra= basic*0.2 ;
+        da = basic * 0.8;
+      elseif(basic<=20000)
+          hra =basic*0.25 ;
+          da = basic * 0.9;
+       else(basic<=20000)
+         hra =basic*0.3 ;
+         da  =basic * 0.95;
+step5: gross = basic+hra+da
+ we get gross salary
+step6: stop

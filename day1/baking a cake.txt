@@ -1,0 +1,7 @@
+step1: start
+step2:  ingredients eggs,conflour,essence,oven
+step3: mix ingredients together
+step4:pour it to pan
+step5: put it in to oven
+step: after sometimes the cake ready
+step7:stop

@@ -1,0 +1,15 @@
+ vowel or consonent
+Step 1: Start
+Step 2: Declare character type variable ch
+Step 3: Read ch
+Step 4: 
+       if(ch == 'a' || 
+	            ch == 'e' || 
+	            ch == 'i' ||
+	            ch == 'o' || 
+	            ch == 'u'  )
+	            
+            Print "Vowel"
+        else
+            Print "Consonant"           
+Step 5:  Stop

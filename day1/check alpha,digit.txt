@@ -1,0 +1,11 @@
+check alphabet,digit or character
+step1: start
+step2: declare a
+step3: read a
+step4:if a==int
+       display a number
+         else if a == string
+            display a is character
+       else
+          display a is special char
+step5: stop

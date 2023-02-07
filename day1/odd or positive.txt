@@ -1,0 +1,14 @@
+s1:start
+s2:declare n;
+s3:read n;
+s4:if n%2==0 and n<0
+  display n is even and negative;
+  if else n%2==0 and n>0
+  diplay n is even and positive;
+  if else n%2!==0 and n>0
+  diplay n is odd and positive;
+  if else n%2!==0 and n<0
+  display n is odd and negative;
+  if else n==0
+  display n is equal to 0;
+s5:stop

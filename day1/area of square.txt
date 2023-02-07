@@ -1,0 +1,7 @@
+find area of square
+step1: start
+step2: input a as value of side
+step3:A = a*a
+step4: print A as area of square
+step5: display area
+step: stop

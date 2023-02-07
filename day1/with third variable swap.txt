@@ -1,0 +1,8 @@
+swapping of two numbers with third variables
+step1:Declare a variable x,y and z as integer;
+step2:Read two numbers x and y;
+step3:z=x;
+      x=y;
+      y=x;
+step4:Print x and y
+step5: end

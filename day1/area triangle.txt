@@ -1,0 +1,7 @@
+Find The Area of Triangle
+step1:Start
+step2:Input a,b,c
+step3:Calculate s = (a + b + c ) / 2
+step4:Calculate area = sqrt( s*(s-a)*(s-b)*(s-c))
+step5:print "Area of Triangle=", area
+step:End
