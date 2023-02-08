@@ -1,0 +1,11 @@
+step1: start 
+step2: declare i, n
+step3:read n
+step4: initialize i value
+        if(i<=n) go to step5 else step 8
+step5: check  i value 
+if(n%2==0) correct  go to step6
+or else go to  step7
+step 6: print i
+step 7: increment i 
+step8: stop

@@ -1,0 +1,12 @@
+step1: start
+step2: declare i, num
+step3:read n
+step4: print value of n
+step5: initialize value i
+we have to use for loop if(i<=n) if ok step6  
+step6: 
+check it divisible by 2 
+if(num%i==0) print i value if true it will print else 
+    go to step 7 
+step7: increment i
+step8: stop

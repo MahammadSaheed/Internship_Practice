@@ -1,0 +1,10 @@
+step1: start
+step2: declare i, num
+step3:read num
+step4:initialize i=1 value
+step5: check i value 
+if(i%2!=0) or go to step 7
+step 6:print i
+step7:increment i
+step 8: display odd number
+step9: stop

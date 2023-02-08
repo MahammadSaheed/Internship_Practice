@@ -1,0 +1,13 @@
+step1: start
+step2: declare i,n,total
+step3:read n
+step4:initialiaze i value 
+step5: check the  i value in n
+use for loop here 
+if(i<=n) then  step6 or step 9
+step6: 
+if(number%i==0)
+step7: print the i value in total
+step8:increment i value 
+step9: display total of factor 
+step10: stop

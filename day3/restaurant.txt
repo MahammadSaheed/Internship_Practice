@@ -1,0 +1,45 @@
+REstaurant management
+
+1st usecase: searching best hotel
+   step1: start
+   step2: declare user
+   step3: user need best hotel
+   step4: find the best hotel for user 
+         if 
+         he get hotel he go there
+             else 
+             return from there
+step5: stop
+
+2nd usecase: orders the food
+   step1: start
+   step2: declare user
+   step3: user need a food 
+   step4: ordering the food 
+         if 
+         he like biriyani he will get  
+             else 
+             nothing
+step5: stop
+
+3rd usecase: canceling the ordered food 
+   step1: start
+   step2: declare user
+   step3: user need to cancel the order
+   step4: cancels the food
+         if 
+         user canceled it properly he will not get food 
+             else 
+             the order will come 
+step5: stop
+
+4th usecase: payment of food 
+   step1: start
+   step2: declare user,card
+   step3: user need to pay the money of food
+   step4: user uses the card 
+         if 
+         card pin is correct the payment will be done 
+             else 
+             he should give cash
+step5: stop
