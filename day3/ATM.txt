@@ -7,7 +7,7 @@ ATM Transaction
    step4: insert a card enter a pin 
          if 
          pin is correct 
-         next user enter the amountbthe user want then collect the  money 
+         next user enter the amount the user want then collect the  money 
              else 
              transaction failure
 step5: stop
