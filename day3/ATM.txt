@@ -6,7 +6,8 @@ ATM Transaction
    step3: user need to withdrawal money
    step4: insert a card enter a pin 
          if 
-         pin is correct user collect the  money 
+         pin is correct 
+         next user enter the amountbthe user want then collect the  money 
              else 
              transaction failure
 step5: stop
@@ -17,9 +18,13 @@ step5: stop
    step3: user need to dispaly menu
    step4: click the home button
          if 
-         it opens continue
+           it display home 
+           there u can select the language 
+           english
+           kannada
+           hindi
              else 
-             failure
+           it doesn't open menu display
 step5: stop 
 
 3rd usecase: deposit money
@@ -28,7 +33,8 @@ step5: stop
    step3: user need to deposit money
    step4: insert a card enter a pin 
          if 
-         pin is correct he deposit the cash in ATM
+         pin is correct
+      user can do how much money user need to deposit cash in ATM
              else 
              failure
 step5: stop
@@ -37,11 +43,12 @@ step5: stop
    step1: start
    step2: declare user,card
    step3: user need to set pin
-   step4: insert a card enter a pin
+   step4: insert a card 
          if 
-         pin is incorrect forgot pin  and re add the pin  
+          then press reset pin 
+          then you can update your new pin
              else 
-             error
+             no need to change
 step5: stop
 
 5th usecase: check bank balance
@@ -50,7 +57,7 @@ step5: stop
    step3: user need to check bank balance
    step4: insert a card enter a pin 
          if 
-         pin is correct ATM display bank balance
+         pin is correct ATM display bank balance of user
              else 
-             failure
+             it doesn't display
 step5: stop
