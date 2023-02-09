@@ -6,9 +6,9 @@ libaray management system
    step3: user need to read the book 
    step4: select the book you want to read 
          if 
-         get the book read 
+         user gets a book he reads it 
              else 
-             leave 
+             he will not get a book to read
 step5: stop
 
  2nd usecase: search for books
@@ -17,9 +17,9 @@ step2: declare user id
 step3: user need to search a book 
 step4: searching a book
       if
-    he got take it 
+    user get book that he searched 
        else 
-      not available
+      he will never get that book 
 step5: stop
 
 3rd usecase: borrowing the books
@@ -28,9 +28,10 @@ step1: start
 step2: declare user id
 step3: user come for borrowing the books
 step4: if 
-      the user got his book he can borrow
+      the user need a book 
+      user need to write date and time 
        else
-         fail to borrow book
+         user can't borrow the book 
 step5: stop
 
 4th usecase:arranging books
@@ -38,9 +39,9 @@ step1: start
 step2: declare user id 
 step3: user need to arrange a books
 step4: if 
-        he arrange books in proper 
+        user arrange books in proper way
        else
-     in different way
+     user arrange in different way
 step5: stop
 
 5th usecase:assigning book
