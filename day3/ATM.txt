@@ -36,7 +36,7 @@ step5: stop
          pin is correct
       user can do how much money user need to deposit cash in ATM
              else 
-             failure
+             we can't withdrawal the money
 step5: stop
 
 4th usecase: set pin
