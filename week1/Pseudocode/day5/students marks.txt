@@ -1,0 +1,18 @@
+BEGIN 
+    DECALRE s,s2,s3,s4,s5,avg,percentage,grade,marks;
+    READ s1,s2,s3,s4,s5,marks;
+    CALCULATE avg=s1+s2+s3+s4+s5/5;
+              percentage= (s1+s2+s3+s4+s5/max marks)*100;
+    IF(per>=90 and per<=100)
+              DISPLAY Grade A;
+      ELSE IF(per>=80  and per<=90)
+              DISPLAY Grade B;
+      ELSE IF(per>=70  and per<=80)
+             DISPLAY Grade C;
+      ELSE IF(per>=60  and per<=70)
+             DISPLAY Grade D;
+      ELSE  
+           DISPLAY FAIL; 
+END
+
+    

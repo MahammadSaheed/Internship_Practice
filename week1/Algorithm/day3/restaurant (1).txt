@@ -1,4 +1,4 @@
-REstaurant management
+Restaurant management
 
 1st usecase: searching best hotel
    step1: start

@@ -1,0 +1,8 @@
+// perimeter of rectangle
+BEGIN 
+    DECLARE l,w,p
+    READ  l,w
+    CALCULATE  p=2*(l+w)
+    DISPLAY p
+END
+     

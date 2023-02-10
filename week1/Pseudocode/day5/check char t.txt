@@ -1,0 +1,9 @@
+BEGIN 
+    DECLARE char
+    READ char
+    IF (char=='t')THEN 
+        DISPLAY char t
+    ELSE 
+        DISPLAY non char t
+END
+  

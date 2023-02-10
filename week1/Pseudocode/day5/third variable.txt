@@ -1,0 +1,10 @@
+BEGIN
+    DECLARE x,y,z
+    READ x,y
+    PROCEDURE SWAP(x,y)
+    x+z
+    y+x
+    y+z
+    RETURN x,y
+END
+    

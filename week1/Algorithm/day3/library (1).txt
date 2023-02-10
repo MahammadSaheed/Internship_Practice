@@ -57,14 +57,3 @@ step2: declare user id
 step3: user returning the book  
 step4: returning date and time
 step5: stop
-
-
-
-
-
-
-
-
-
-
-

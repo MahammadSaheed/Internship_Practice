@@ -1,0 +1,14 @@
+BEGIN 
+     DECLARE  i,n,fact
+     READ  n
+    INITIALIZE i=1 fact=1
+    WHILE(i<=n) DO
+          IF(i<=n/2)
+            CALCULATE fact=fact*i
+          ENDIF
+          i=i+1
+    END WHILE 
+    DISPLAY fact value
+END
+             
+          

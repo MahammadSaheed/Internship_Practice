@@ -1,0 +1,9 @@
+BEGIN
+     DECLARE x,y
+     READ x,y
+     CALCULATE 
+            x = x + y
+            y = x - y
+            x = x - y
+     PRINT x,y
+END

@@ -1,0 +1,6 @@
+BEGIN
+    DECLARE a
+    CALCULATE A= a*a
+    PRINT A
+    DISPLAY A
+END

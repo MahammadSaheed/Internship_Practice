@@ -1,0 +1,8 @@
+BEGIN
+    DECLARE n
+    READ n
+    IF (n%5==0)
+         DISPLAY n IS DIVISIBLE BY 5
+    ELSE 
+         DISPLAY THAT n IS NOT DIVISIBLE BY 5
+END

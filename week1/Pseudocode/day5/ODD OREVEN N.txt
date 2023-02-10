@@ -1,0 +1,9 @@
+BEGIN 
+     DECLARE n
+     READ n 
+     CHECK DIVISIBLE BY 2
+     IF(n%2==0)
+           DISPLAY EVEN
+     ELSE 
+        DISPLAY ODD
+END

@@ -1,0 +1,6 @@
+BEGIN 
+     DECLARE s,p
+     READ  s
+     CALCULATE P=4*s
+     DISPLAY p
+END

@@ -1,0 +1,7 @@
+BEGIN 
+     DECLARE a,b,c,p
+     READ a,b,c
+     CLACULATE p=a+b+c
+     DISPLAY p
+END
+     

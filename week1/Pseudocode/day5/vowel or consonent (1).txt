@@ -1,0 +1,12 @@
+BEGIN 
+     DECLARE ch
+     READ ch 
+     IF (ch=='a'||
+         ch=='e'||
+         ch=='i'||
+         ch=='o'||
+         ch=='u')
+          DISPLAY VOWEL 
+    ELSE 
+          DISPLAY CONSONENT
+END
