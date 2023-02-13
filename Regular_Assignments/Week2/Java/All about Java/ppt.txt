@@ -1,0 +1,49 @@
+Java is a object oriented programming language.
+
+Founder of Java is James Gosling in 1995 
+Actual name of java is Oak after some years it changed to JAVA.
+
+Editions of JAVA
+Java standard edition
+Java enterprise edition
+Java micro edition
+
+In Java has compiler, Interpreter and JVM 
+
+Features of JAVA:-
+
+Simple:-it is easy to learn
+in this syntax and all are easy to understand.
+
+Object-Oriented:- in here it simplify software development and maintain some rules
+In object oriented has 4 types of principles:-
+   1.Abstraction:-hiding unwanted data and show main data
+   2.Inheritance:- one class to another
+   3.Polymorphism:-one function that which perform many roles
+   4.Encapsulation:- binding or securing of the data
+
+Platform Independent:-we can write it anywhere.
+ A platform is the hardware or software environment in which a program runs.
+there are two components :-
+     Runtime environment
+     API(Application Programming Interface)
+
+Portable:- it is that which carry the byte code, no need of implementation
+byte code means it is instruction of JVM
+
+Robust:-it is strong memory management
+main it use exception handling and JVM used to collect unused variables.
+
+Secure:-the name it self tells that security .virus free systems and also secured because of No explicit pointer.
+
+Multi-Threaded:- Is like separate program and executing concurrently.
+generally we can say that many task which complete once.
+
+Distributed:-
+Java is distributed because it facilitates users to create distributed applications in Java. 
+Java  ables to make access files calling the methods from any machine on the internet.
+
+High performance:-
+   its is a just-in-time compiler.
+  java is faster because the bytecode is close to native code.
+

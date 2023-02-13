@@ -1,0 +1,59 @@
+libaray management system
+
+  1st usecase: read the book
+   step1: start
+   step2: declare user id
+   step3: user need to read the book 
+   step4: select the book you want to read 
+         if 
+         user gets a book he reads it 
+             else 
+             he will not get a book to read
+step5: stop
+
+ 2nd usecase: search for books
+step1: start
+step2: declare user id 
+step3: user need to search a book 
+step4: searching a book
+      if
+    user get book that he searched 
+       else 
+      he will never get that book 
+step5: stop
+
+3rd usecase: borrowing the books
+
+step1: start
+step2: declare user id
+step3: user come for borrowing the books
+step4: if 
+      the user need a book 
+      user need to write date and time 
+       else
+         user can't borrow the book 
+step5: stop
+
+4th usecase:arranging books
+step1: start
+step2: declare user id 
+step3: user need to arrange a books
+step4: if 
+        user arrange books in proper way
+       else
+     user arrange in different way
+step5: stop
+
+5th usecase:assigning book
+step1: start
+step2: declare user id
+step3: user assigning book 
+step4: assigning series number of books
+step5: stop
+
+ step six: returning the book
+step1: start
+step2: declare user id
+step3: user returning the book  
+step4: returning date and time
+step5: stop
