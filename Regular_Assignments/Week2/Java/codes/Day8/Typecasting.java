@@ -17,3 +17,4 @@ class Typecasting{
     System.out.println(s);
     
   }
+}

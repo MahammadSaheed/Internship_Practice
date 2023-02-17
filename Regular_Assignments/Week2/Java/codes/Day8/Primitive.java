@@ -7,9 +7,11 @@ class Primitive{
     char ch='#';
     boolean b=true;
     System.out.println("Integer "+i);
-     System.out.println("Float "+f); System.out.println("Double "+d);
+     System.out.println("Float "+f); 
+     System.out.println("Double "+d);
      System.out.println("char "+ch);
      System.out.println("boolean "+b);
     System.out.println("Long "+l);
      
   }
+}
