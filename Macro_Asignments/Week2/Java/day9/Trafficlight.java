@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Traffic{
+class Trafficlight{
   public static void main(String args[]){
     Scanner sc =new Scanner (System.in);
     System.out.println("enter the traffic flow : ");

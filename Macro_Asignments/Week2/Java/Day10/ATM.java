@@ -1,5 +1,5 @@
 import java.util.Scanner;
-  class CheckBalance{
+  class ATM{
     public static void main(String args[]){
       Scanner sc=new Scanner(System.in);
       int oPin=1234,nPin,opt;

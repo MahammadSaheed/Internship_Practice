@@ -3,7 +3,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.time.Period; 
 
-class Age {
+class Agecalculator {
   public static void main(String args[]) {
     System.out.println("enter the date of birth");
     Scanner sc = new Scanner(System.in);

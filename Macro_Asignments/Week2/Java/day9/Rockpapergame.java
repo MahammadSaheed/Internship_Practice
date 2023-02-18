@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Rockpaper {
+class Rockpapergame {
   public static void main(String args[]) {
     Scanner sc = new Scanner(System.in);
     System.out.println("select an options");
