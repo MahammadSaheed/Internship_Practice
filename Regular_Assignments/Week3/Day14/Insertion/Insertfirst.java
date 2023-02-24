@@ -20,7 +20,7 @@ class Insertfirst {
     {
       a[i+1] = a[i];
     }
-    arr[pos] = e;
+    a[pos] = e;
     System.out.println("After inserting : ");
     for(int i = 0; i <=n; i++)
     {
